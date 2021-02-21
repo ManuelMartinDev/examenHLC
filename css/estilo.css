@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.enunciados {
+  background-image: url("./fondo.jpg");
+  color: red;
+}
+input {
+  display: block;
+}
+.formulario {
+  background-color: green;
+}
+input[type="submit"] {
+  margin-top: 10px;
+}
